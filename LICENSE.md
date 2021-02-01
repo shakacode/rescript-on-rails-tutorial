@@ -3,7 +3,7 @@ All source code in the [Ruby on Rails Tutorial](http://railstutorial.org/) is av
 ```
 The MIT License
 
-Copyright (c) 2016 Michael Hartl
+Copyright (c) 2021 ShakaCode and Mike Price
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -27,7 +27,8 @@ THE SOFTWARE.
 ```
 THE BEERWARE LICENSE (Revision 42)
 
-Michael Hartl wrote this code. As long as you retain this notice you can do
-whatever you want with this stuff. If we meet some day, and you think this
-stuff is worth it, you can buy me a beer in return.
+Michael Hartl wrote this code wrote the starting point for this code. As 
+long as you retain this notice you can do whatever you want with this stuff. 
+If you meet Michael or Justin Gordon or Mike Price some day, and you think this
+stuff is worth it, you can buy them a beer in return.
 ```
