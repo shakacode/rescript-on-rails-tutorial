@@ -10,7 +10,7 @@ by [Michael Hartl](http://www.michaelhartl.com/).
 
 ## License
 
-All source code in the [ReScript on Rails Tutorial](https://www.railstutorial.org/)
+All source code in the ReScript on Rails Tutorial
 is available jointly under the MIT License and the Beerware License. See
 [LICENSE.md](LICENSE.md) for details.
 
